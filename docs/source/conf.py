@@ -21,11 +21,11 @@ sys.path.insert(0, os.path.abspath("."))
 # -- Project information -----------------------------------------------------
 
 project = "SwarmRL"
-copyright = "2021, Samuel Tovey and Christoph Lohrmann"
+copyright = "2023, Samuel Tovey and Christoph Lohrmann"
 author = "Samuel Tovey and Christoph Lohrmann"
 
 # The full version, including alpha/beta/rc tags
-release = "2022"
+release = "2023"
 
 
 # -- General configuration ---------------------------------------------------
