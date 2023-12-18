@@ -11,20 +11,7 @@ The SwarmRL Python package is developed to lower the entry barrier to advanced m
 
 
 Contents:
-
-..    :maxdepth: 2
-..    :caption: Contents:
-
-..    installation
-..    user_guide/getting_started
-..    tutorial
-..    developer_guide/api_reference
-..    faq
-..    examples
-..    contributing
-..    changelog
-..    module1
-..    module2
+=======
 
 
 .. toctree::
