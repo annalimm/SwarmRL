@@ -9,11 +9,6 @@ There is also an API documentation section for those interested in the technical
 
 The SwarmRL Python package is developed to lower the entry barrier to advanced micro-robot control tools. SwarmRL provides an easy-to-use interface for developing models to control microscopic colloids using classical control and deep actor-critic reinforcement learning approaches...
 
-
-Contents:
-=======
-
-
 .. toctree::
    :maxdepth: 2
    :caption: User Guide:
