@@ -13,30 +13,30 @@ The SwarmRL Python package is developed to lower the entry barrier to advanced m
    :maxdepth: 2
    :caption: User Guide:
 
-   _user_guide/getting_started
-   _user_guide/installation
+   _user_guide/getting_started.rst
+   _user_guide/installation.rst
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Examples:
 
-   _examples/example_notebooks
+   _examples/example_notebooks.rst
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Api:
 
-   _api/api_overwiew
-   _api/module1
+   _api/api_overwiew.rst
+   _api/module1.rst
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Developer Guide:
 
-   _developer_guide/contributing
+   _developer_guide/contributing.rst
 
 
 Indices and tables
